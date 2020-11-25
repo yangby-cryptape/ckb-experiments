@@ -1,0 +1,11 @@
+[package]
+name = "ckb-epoch-convergence"
+version = "0.1.0"
+authors = ["Boyu Yang <yangby@cryptape.com>"]
+edition = "2018"
+
+[dependencies]
+ckb-chain-spec = "0.38.0"
+ckb-types = "0.38.0"
+ckb-dao-utils = "0.38.0"
+clap = "2.33.3"
